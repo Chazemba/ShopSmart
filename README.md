@@ -5,7 +5,7 @@ Technologies Used • HTML5 – for the structure • CSS3 – for styling and r
 Folder Structure
 /index.html /about.html /contact.html /css/ └── style.css /js/ └── script.js /images/
 
-Live Website URL 🔗 https://your-username.github.io/ecommerce-website
+Live Website URL 🔗 https://chazemba.github.io/ShopSmart/
 How to Run Locally
 git clone https://github.com/your-username/ecommerce-website.git cd ecommerce-website open index.html
 
